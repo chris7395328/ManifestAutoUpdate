@@ -20,10 +20,10 @@ on:
         description: args
         required: false
       users:
-        description: users
+        description: jiaoaohehe188959
         required: false
       password:
-        description: password
+        description: junyi820108
         required: false
       ssfn:
         description: ssfn
